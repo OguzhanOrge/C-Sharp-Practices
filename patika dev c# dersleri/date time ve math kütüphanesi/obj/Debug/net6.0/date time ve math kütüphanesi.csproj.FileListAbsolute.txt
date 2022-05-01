@@ -1,0 +1,15 @@
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\date time ve math kütüphanesi\obj\Debug\net6.0\date time ve math kütüphanesi.csproj.AssemblyReference.cache
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\date time ve math kütüphanesi\obj\Debug\net6.0\date time ve math kütüphanesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\date time ve math kütüphanesi\obj\Debug\net6.0\date time ve math kütüphanesi.AssemblyInfoInputs.cache
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\date time ve math kütüphanesi\obj\Debug\net6.0\date time ve math kütüphanesi.AssemblyInfo.cs
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\date time ve math kütüphanesi\obj\Debug\net6.0\date time ve math kütüphanesi.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\date time ve math kütüphanesi\bin\Debug\net6.0\date time ve math kütüphanesi.exe
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\date time ve math kütüphanesi\bin\Debug\net6.0\date time ve math kütüphanesi.deps.json
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\date time ve math kütüphanesi\bin\Debug\net6.0\date time ve math kütüphanesi.runtimeconfig.json
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\date time ve math kütüphanesi\bin\Debug\net6.0\date time ve math kütüphanesi.dll
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\date time ve math kütüphanesi\bin\Debug\net6.0\date time ve math kütüphanesi.pdb
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\date time ve math kütüphanesi\obj\Debug\net6.0\date time ve math kütüphanesi.dll
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\date time ve math kütüphanesi\obj\Debug\net6.0\refint\date time ve math kütüphanesi.dll
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\date time ve math kütüphanesi\obj\Debug\net6.0\date time ve math kütüphanesi.pdb
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\date time ve math kütüphanesi\obj\Debug\net6.0\date time ve math kütüphanesi.genruntimeconfig.cache
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\date time ve math kütüphanesi\obj\Debug\net6.0\ref\date time ve math kütüphanesi.dll

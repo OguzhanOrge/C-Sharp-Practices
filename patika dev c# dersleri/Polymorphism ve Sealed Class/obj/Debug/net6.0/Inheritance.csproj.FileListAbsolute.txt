@@ -1,0 +1,30 @@
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\Inheritance\bin\Debug\net6.0\Inheritance.exe
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\Inheritance\bin\Debug\net6.0\Inheritance.deps.json
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\Inheritance\bin\Debug\net6.0\Inheritance.runtimeconfig.json
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\Inheritance\bin\Debug\net6.0\Inheritance.dll
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\Inheritance\bin\Debug\net6.0\Inheritance.pdb
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\Inheritance\obj\Debug\net6.0\Inheritance.csproj.AssemblyReference.cache
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\Inheritance\obj\Debug\net6.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfo.cs
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\Inheritance\obj\Debug\net6.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\Inheritance\obj\Debug\net6.0\Inheritance.dll
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\Inheritance\obj\Debug\net6.0\refint\Inheritance.dll
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\Inheritance\obj\Debug\net6.0\Inheritance.pdb
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\Inheritance\obj\Debug\net6.0\Inheritance.genruntimeconfig.cache
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\Inheritance\obj\Debug\net6.0\ref\Inheritance.dll
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\Polymorphism ve Sealed Class\bin\Debug\net6.0\Inheritance.exe
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\Polymorphism ve Sealed Class\bin\Debug\net6.0\Inheritance.deps.json
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\Polymorphism ve Sealed Class\bin\Debug\net6.0\Inheritance.runtimeconfig.json
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\Polymorphism ve Sealed Class\bin\Debug\net6.0\Inheritance.dll
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\Polymorphism ve Sealed Class\bin\Debug\net6.0\Inheritance.pdb
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\Polymorphism ve Sealed Class\obj\Debug\net6.0\Inheritance.csproj.AssemblyReference.cache
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\Polymorphism ve Sealed Class\obj\Debug\net6.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\Polymorphism ve Sealed Class\obj\Debug\net6.0\Inheritance.AssemblyInfoInputs.cache
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\Polymorphism ve Sealed Class\obj\Debug\net6.0\Inheritance.AssemblyInfo.cs
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\Polymorphism ve Sealed Class\obj\Debug\net6.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\Polymorphism ve Sealed Class\obj\Debug\net6.0\Inheritance.dll
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\Polymorphism ve Sealed Class\obj\Debug\net6.0\refint\Inheritance.dll
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\Polymorphism ve Sealed Class\obj\Debug\net6.0\Inheritance.pdb
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\Polymorphism ve Sealed Class\obj\Debug\net6.0\Inheritance.genruntimeconfig.cache
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\Polymorphism ve Sealed Class\obj\Debug\net6.0\ref\Inheritance.dll

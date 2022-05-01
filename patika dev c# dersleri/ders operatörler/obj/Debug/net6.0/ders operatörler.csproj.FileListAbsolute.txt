@@ -1,0 +1,15 @@
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\ders operatörler\bin\Debug\net6.0\ders operatörler.exe
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\ders operatörler\bin\Debug\net6.0\ders operatörler.deps.json
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\ders operatörler\bin\Debug\net6.0\ders operatörler.runtimeconfig.json
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\ders operatörler\bin\Debug\net6.0\ders operatörler.dll
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\ders operatörler\bin\Debug\net6.0\ders operatörler.pdb
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\ders operatörler\obj\Debug\net6.0\ders operatörler.csproj.AssemblyReference.cache
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\ders operatörler\obj\Debug\net6.0\ders operatörler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\ders operatörler\obj\Debug\net6.0\ders operatörler.AssemblyInfoInputs.cache
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\ders operatörler\obj\Debug\net6.0\ders operatörler.AssemblyInfo.cs
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\ders operatörler\obj\Debug\net6.0\ders operatörler.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\ders operatörler\obj\Debug\net6.0\ders operatörler.dll
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\ders operatörler\obj\Debug\net6.0\refint\ders operatörler.dll
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\ders operatörler\obj\Debug\net6.0\ders operatörler.pdb
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\ders operatörler\obj\Debug\net6.0\ders operatörler.genruntimeconfig.cache
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\ders operatörler\obj\Debug\net6.0\ref\ders operatörler.dll

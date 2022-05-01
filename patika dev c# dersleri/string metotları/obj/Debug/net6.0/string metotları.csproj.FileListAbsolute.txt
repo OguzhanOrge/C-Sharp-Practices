@@ -1,0 +1,15 @@
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\string metotları\bin\Debug\net6.0\string metotları.exe
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\string metotları\bin\Debug\net6.0\string metotları.deps.json
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\string metotları\bin\Debug\net6.0\string metotları.runtimeconfig.json
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\string metotları\bin\Debug\net6.0\string metotları.dll
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\string metotları\bin\Debug\net6.0\string metotları.pdb
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\string metotları\obj\Debug\net6.0\string metotları.csproj.AssemblyReference.cache
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\string metotları\obj\Debug\net6.0\string metotları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\string metotları\obj\Debug\net6.0\string metotları.AssemblyInfoInputs.cache
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\string metotları\obj\Debug\net6.0\string metotları.AssemblyInfo.cs
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\string metotları\obj\Debug\net6.0\string metotları.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\string metotları\obj\Debug\net6.0\string metotları.dll
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\string metotları\obj\Debug\net6.0\refint\string metotları.dll
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\string metotları\obj\Debug\net6.0\string metotları.pdb
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\string metotları\obj\Debug\net6.0\string metotları.genruntimeconfig.cache
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\string metotları\obj\Debug\net6.0\ref\string metotları.dll

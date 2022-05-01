@@ -1,0 +1,15 @@
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\if else dersi\bin\Debug\net6.0\if else dersi.exe
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\if else dersi\bin\Debug\net6.0\if else dersi.deps.json
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\if else dersi\bin\Debug\net6.0\if else dersi.runtimeconfig.json
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\if else dersi\bin\Debug\net6.0\if else dersi.dll
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\if else dersi\bin\Debug\net6.0\if else dersi.pdb
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\if else dersi\obj\Debug\net6.0\if else dersi.csproj.AssemblyReference.cache
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\if else dersi\obj\Debug\net6.0\if else dersi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\if else dersi\obj\Debug\net6.0\if else dersi.AssemblyInfoInputs.cache
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\if else dersi\obj\Debug\net6.0\if else dersi.AssemblyInfo.cs
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\if else dersi\obj\Debug\net6.0\if else dersi.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\if else dersi\obj\Debug\net6.0\if else dersi.dll
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\if else dersi\obj\Debug\net6.0\refint\if else dersi.dll
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\if else dersi\obj\Debug\net6.0\if else dersi.pdb
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\if else dersi\obj\Debug\net6.0\if else dersi.genruntimeconfig.cache
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\if else dersi\obj\Debug\net6.0\ref\if else dersi.dll

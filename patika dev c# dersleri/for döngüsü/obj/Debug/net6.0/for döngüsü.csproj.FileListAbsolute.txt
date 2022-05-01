@@ -1,0 +1,15 @@
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\for döngüsü\bin\Debug\net6.0\for döngüsü.exe
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\for döngüsü\bin\Debug\net6.0\for döngüsü.deps.json
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\for döngüsü\bin\Debug\net6.0\for döngüsü.runtimeconfig.json
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\for döngüsü\bin\Debug\net6.0\for döngüsü.dll
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\for döngüsü\bin\Debug\net6.0\for döngüsü.pdb
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\for döngüsü\obj\Debug\net6.0\for döngüsü.csproj.AssemblyReference.cache
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\for döngüsü\obj\Debug\net6.0\for döngüsü.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\for döngüsü\obj\Debug\net6.0\for döngüsü.AssemblyInfoInputs.cache
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\for döngüsü\obj\Debug\net6.0\for döngüsü.AssemblyInfo.cs
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\for döngüsü\obj\Debug\net6.0\for döngüsü.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\for döngüsü\obj\Debug\net6.0\for döngüsü.dll
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\for döngüsü\obj\Debug\net6.0\refint\for döngüsü.dll
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\for döngüsü\obj\Debug\net6.0\for döngüsü.pdb
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\for döngüsü\obj\Debug\net6.0\for döngüsü.genruntimeconfig.cache
+C:\Users\oguzh\OneDrive\Masaüstü\patika dev c# dersleri\for döngüsü\obj\Debug\net6.0\ref\for döngüsü.dll

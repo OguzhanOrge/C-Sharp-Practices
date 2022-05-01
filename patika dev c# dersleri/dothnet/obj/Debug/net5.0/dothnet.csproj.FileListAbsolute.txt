@@ -1,0 +1,16 @@
+C:\Users\oguzh\OneDrive\Masaüstü\dothnet\bin\Debug\net5.0\dothnet.exe
+C:\Users\oguzh\OneDrive\Masaüstü\dothnet\bin\Debug\net5.0\dothnet.deps.json
+C:\Users\oguzh\OneDrive\Masaüstü\dothnet\bin\Debug\net5.0\dothnet.runtimeconfig.json
+C:\Users\oguzh\OneDrive\Masaüstü\dothnet\bin\Debug\net5.0\dothnet.runtimeconfig.dev.json
+C:\Users\oguzh\OneDrive\Masaüstü\dothnet\bin\Debug\net5.0\dothnet.dll
+C:\Users\oguzh\OneDrive\Masaüstü\dothnet\bin\Debug\net5.0\dothnet.pdb
+C:\Users\oguzh\OneDrive\Masaüstü\dothnet\obj\Debug\net5.0\dothnet.csproj.AssemblyReference.cache
+C:\Users\oguzh\OneDrive\Masaüstü\dothnet\obj\Debug\net5.0\dothnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzh\OneDrive\Masaüstü\dothnet\obj\Debug\net5.0\dothnet.AssemblyInfoInputs.cache
+C:\Users\oguzh\OneDrive\Masaüstü\dothnet\obj\Debug\net5.0\dothnet.AssemblyInfo.cs
+C:\Users\oguzh\OneDrive\Masaüstü\dothnet\obj\Debug\net5.0\dothnet.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\OneDrive\Masaüstü\dothnet\obj\Debug\net5.0\dothnet.dll
+C:\Users\oguzh\OneDrive\Masaüstü\dothnet\obj\Debug\net5.0\refint\dothnet.dll
+C:\Users\oguzh\OneDrive\Masaüstü\dothnet\obj\Debug\net5.0\dothnet.pdb
+C:\Users\oguzh\OneDrive\Masaüstü\dothnet\obj\Debug\net5.0\dothnet.genruntimeconfig.cache
+C:\Users\oguzh\OneDrive\Masaüstü\dothnet\obj\Debug\net5.0\ref\dothnet.dll
